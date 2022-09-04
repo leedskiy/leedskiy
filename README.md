@@ -4,9 +4,11 @@
 </div>
 
 <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=leedskiy&label=Profile%20views&color=b0716c&style=flat&label=NUMBER OF PEOPLE WHO WERE CAUGHT IN MY ANIME MONASTERY"
+        <img src="https://komarev.com/ghpvc/?username=leedskiy&label=Profile%20views&color=b0716c&style=flat&label=NUMBER OF LOSERS WHO WERE CAUGHT IN MY ANIME MONASTERY :P"
                 alt="leedskiy" />
 </p>
+
+<h3 align="center">About me:</h3>
 
 <p align="center"> - 👀 I’m interested in <b>programming</b></p>
 <p align="center"> - 🌱 I’m currently learning <b>programming</b></p>
