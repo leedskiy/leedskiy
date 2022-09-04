@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=leedskiy&label=Profile%20views&color=b0716c&style=flat&label=people who were caught in my anime monastery"
+        <img src="https://komarev.com/ghpvc/?username=leedskiy&label=Profile%20views&color=b0716c&style=flat&label=NUMBER OF PEOPLE WHO WERE CAUGHT IN MY ANIME MONASTERY"
                 alt="leedskiy" />
 </p>
 
