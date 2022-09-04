@@ -1,6 +1,8 @@
-![MasterHead](https://github.com/leedskiy/leedskiy/blob/d9eb8b3e9d0c1ee31e505b809df5527a5648ad01/1.jpg)
-
 <h2 align="center">Illia Leedskiy</h2>
+
+<div align = "center">
+    <img style = "width: 25em;" src = "https://github.com/leedskiy/leedskiy/blob/d9eb8b3e9d0c1ee31e505b809df5527a5648ad01/1.jpg">
+</div>
 
 <p align="center">
         <img src="https://komarev.com/ghpvc/?username=leedskiy&label=Profile%20views&color=526984&style=flat&label=people who were caught in my anime monastery"
