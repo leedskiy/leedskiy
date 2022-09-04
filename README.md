@@ -1,7 +1,7 @@
 <h2 align="center">Illia Leedskiy</h2>
 
 <div align = "center">
-    <img style = "width: 25em;" src = "https://github.com/leedskiy/leedskiy/blob/d9eb8b3e9d0c1ee31e505b809df5527a5648ad01/1.jpg">
+    <img style = "width: 25em;" src = "https://github.com/leedskiy/leedskiy/blob/25c87c9f3687c17cb6eb1c37c026188d3f194832/IMG_2409%20(2).PNG">
 </div>
 
 <p align="center">
