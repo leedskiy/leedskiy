@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/leedskiy/leedskiy/blob/987ade7bcb5e0a11b99182323225e6f30edabfa3/IMG_3585.PNG)
+![MasterHead](https://github.com/leedskiy/leedskiy/blob/d9eb8b3e9d0c1ee31e505b809df5527a5648ad01/1.jpg)
 
 <h2 align="center">Illia Leedskiy</h2>
 
