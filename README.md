@@ -3,11 +3,6 @@
                 src="https://github.com/leedskiy/leedskiy/blob/9d2e9d9b5320b51d1fdde377da83134e383f5e5c/IMG1.png">
 </div>
 
-<p align="center">
-        <img src="https://komarev.com/ghpvc/?username=leedskiy&label=Profile%20views&color=b0716c&style=flat&label=NUMBER OF LOSERS WHO WERE CAUGHT IN MY ANIME MONASTERY :P"
-                alt="leedskiy" />
-</p>
-
 <h3 align="center">About me:</h3>
 
 <p align="center"> - 👀 I’m interested in <b>programming</b></p>
